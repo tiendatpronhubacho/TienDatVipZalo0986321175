@@ -1,0 +1,47 @@
+{
+  "schemaVersion": 1,
+  "identifier": "tiendatpronhubacho.3105",
+  "name": "TienDat 3105",
+  "description": "Nguồn Mod V21 của TienDat.",
+  "accentColor": "#ca9ee6",
+  "packages": [
+    {
+      "identifier": "mod-v21",
+      "name": "Mod V21",
+      "author": "TienDat",
+      "version": "1.0.0",
+      "summary": "Mod V21.3105",
+      "description": "Mod V21 dành cho 3105.",
+      "category": "Patch",
+      "tags": [
+        "Mod",
+        "3105"
+      ],
+      "publishedAt": "2026-09-26T00:00:00Z",
+      "download": "Mod%20V21.3105",
+      "sha256": "8592223f6d5574f594edae4753b8a429dba997ea329994f9693378a0b0591f32",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": true,
+      "isPrivate": false
+    }
+  ]
+}
